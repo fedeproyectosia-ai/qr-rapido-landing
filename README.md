@@ -1,0 +1,1 @@
+# qr-rapido-landing
